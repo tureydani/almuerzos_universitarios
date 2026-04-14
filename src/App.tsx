@@ -8,7 +8,7 @@ import About from './components/About'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
-const WHATSAPP_NUMBER = '59170000000'
+const WHATSAPP_NUMBER = '59169536433'
 
 const menuItems = [
   {
